@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  entry_time: 2024-01-31 21:27:54
+  exit_time: 2024-01-31 21:27:54
+  vehicle: one
+  entry_point: one
+  parking_slot: one
+
+two:
+  entry_time: 2024-01-31 21:27:54
+  exit_time: 2024-01-31 21:27:54
+  vehicle: two
+  entry_point: two
+  parking_slot: two
